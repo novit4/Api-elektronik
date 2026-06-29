@@ -47,7 +47,7 @@ Server berjalan di: http://localhost:3000
 
 ## Struktur Proyek
 ```
-nestjs-elektronik-api-crud/
+elektronik-api-crud/
 ├── src/
 │   ├── app.module.ts
 │   ├── app.controller.ts
