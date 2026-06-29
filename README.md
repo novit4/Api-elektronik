@@ -44,3 +44,19 @@ Server berjalan di: http://localhost:3000
   "stock": 5
 }
 ```
+
+## Struktur Proyek
+```
+nestjs-elektronik-api-crud/
+├── src/
+│   ├── app.module.ts
+│   ├── app.controller.ts
+│   ├── app.service.ts
+│   ├── main.ts
+│   └── products/
+│       ├── products.module.ts
+│       ├── products.controller.ts
+│       ├── products.service.ts
+│       
+└── package.json
+```
